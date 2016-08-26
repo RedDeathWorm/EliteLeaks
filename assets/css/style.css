@@ -118,17 +118,3 @@ body, html {
 .nav-close-option {
 	display:none;
 }
-
-#wrapper {
-	width:100%;
-	height:1000px;
-	margin:0px auto;
-	background-color:#808080;
-}
-
-#outer {
-	width:960px;
-	height:1000px;
-	margin: 0px auto;
-	background-color:#808080;
-}
